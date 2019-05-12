@@ -33,7 +33,7 @@ const config = {
     plugins: [
         new cleanWebpackPlugin(),
         new htmlWebpackPlugin(),
-        new UglifyjsWebpackPlugin()
+        // new UglifyjsWebpackPlugin()
     ]
 }
 
